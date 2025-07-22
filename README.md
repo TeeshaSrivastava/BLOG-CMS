@@ -5,7 +5,6 @@ A simple blog CMS built with core PHP and MySQL
 A lightweight content management system built using **core PHP** and **MySQL**, designed to manage blog posts with an admin dashboard, login authentication, and post creation functionality. Ideal for learning how back-end systems work under the hood, without relying on frameworks or CMS platforms.
 
 ---
-
 ## 🚀 Features
 
 - 🔐 Admin login system with session handling
