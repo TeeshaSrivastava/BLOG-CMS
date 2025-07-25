@@ -13,7 +13,6 @@ A lightweight content management system built using **core PHP** and **MySQL**, 
 - 🧱 Clean code structure with modular PHP files
 - 💾 MySQL database connection (via `db.php`)
 - 🎨 Simple and responsive UI with custom CSS
-
 ---
 
 ## 🛠️ Tech Stack
